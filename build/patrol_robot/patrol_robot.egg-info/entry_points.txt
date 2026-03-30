@@ -1,6 +1,7 @@
 [console_scripts]
 base_driver_sim = patrol_robot.base_driver_sim:main
 cmd_vel_monitor = patrol_robot.cmd_vel_monitor:main
+diff_drive_sim = patrol_robot.diff_drive_sim:main
 fake_laser_publisher = patrol_robot.fake_laser_publisher:main
 obstacle_avoidance = patrol_robot.obstacle_avoidance:main
 patrol_controller = patrol_robot.patrol_controller:main

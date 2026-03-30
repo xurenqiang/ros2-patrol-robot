@@ -3,9 +3,11 @@ setup.cfg
 setup.py
 config/params.yaml
 launch/patrol_robot.launch.py
+launch/patrol_robot_visual.launch.py
 patrol_robot/__init__.py
 patrol_robot/base_driver_sim.py
 patrol_robot/cmd_vel_monitor.py
+patrol_robot/diff_drive_sim.py
 patrol_robot/fake_laser_publisher.py
 patrol_robot/obstacle_avoidance.py
 patrol_robot/patrol_controller.py
@@ -17,3 +19,5 @@ patrol_robot.egg-info/requires.txt
 patrol_robot.egg-info/top_level.txt
 patrol_robot.egg-info/zip-safe
 resource/patrol_robot
+rviz/patrol_robot.rviz
+urdf/patrol_robot.urdf.xacro
