@@ -1,0 +1,32 @@
+[0.590s] Invoking command in '/home/xrq/ros2_ws/build/patrol_robot': PYTHONPATH=/home/xrq/ros2_ws/build/patrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xrq/ros2_ws/install/patrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xrq/ros2_ws/build/patrol_robot/build --no-deps symlink_data
+[0.742s] running develop
+[0.809s] running egg_info
+[0.810s] creating patrol_robot.egg-info
+[0.810s] writing patrol_robot.egg-info/PKG-INFO
+[0.810s] writing dependency_links to patrol_robot.egg-info/dependency_links.txt
+[0.811s] writing entry points to patrol_robot.egg-info/entry_points.txt
+[0.811s] writing requirements to patrol_robot.egg-info/requires.txt
+[0.811s] writing top-level names to patrol_robot.egg-info/top_level.txt
+[0.811s] writing manifest file 'patrol_robot.egg-info/SOURCES.txt'
+[0.812s] reading manifest file 'patrol_robot.egg-info/SOURCES.txt'
+[0.812s] writing manifest file 'patrol_robot.egg-info/SOURCES.txt'
+[0.814s] running build_ext
+[0.814s] Creating /home/xrq/ros2_ws/install/patrol_robot/lib/python3.10/site-packages/patrol-robot.egg-link (link to .)
+[0.814s] Installing base_driver_sim script to /home/xrq/ros2_ws/install/patrol_robot/lib/patrol_robot
+[0.815s] Installing cmd_vel_monitor script to /home/xrq/ros2_ws/install/patrol_robot/lib/patrol_robot
+[0.815s] Installing fake_laser_publisher script to /home/xrq/ros2_ws/install/patrol_robot/lib/patrol_robot
+[0.815s] Installing obstacle_avoidance script to /home/xrq/ros2_ws/install/patrol_robot/lib/patrol_robot
+[0.815s] Installing patrol_controller script to /home/xrq/ros2_ws/install/patrol_robot/lib/patrol_robot
+[0.815s] 
+[0.816s] Installed /home/xrq/ros2_ws/build/patrol_robot
+[0.816s] running symlink_data
+[0.816s] creating /home/xrq/ros2_ws/install/patrol_robot/share/ament_index
+[0.816s] creating /home/xrq/ros2_ws/install/patrol_robot/share/ament_index/resource_index
+[0.816s] creating /home/xrq/ros2_ws/install/patrol_robot/share/ament_index/resource_index/packages
+[0.817s] symbolically linking /home/xrq/ros2_ws/build/patrol_robot/resource/patrol_robot -> /home/xrq/ros2_ws/install/patrol_robot/share/ament_index/resource_index/packages
+[0.817s] symbolically linking /home/xrq/ros2_ws/build/patrol_robot/package.xml -> /home/xrq/ros2_ws/install/patrol_robot/share/patrol_robot
+[0.817s] creating /home/xrq/ros2_ws/install/patrol_robot/share/patrol_robot/launch
+[0.817s] symbolically linking /home/xrq/ros2_ws/build/patrol_robot/launch/patrol_robot.launch.py -> /home/xrq/ros2_ws/install/patrol_robot/share/patrol_robot/launch
+[0.818s] creating /home/xrq/ros2_ws/install/patrol_robot/share/patrol_robot/config
+[0.818s] symbolically linking /home/xrq/ros2_ws/build/patrol_robot/config/params.yaml -> /home/xrq/ros2_ws/install/patrol_robot/share/patrol_robot/config
+[0.840s] Invoked command in '/home/xrq/ros2_ws/build/patrol_robot' returned '0': PYTHONPATH=/home/xrq/ros2_ws/build/patrol_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xrq/ros2_ws/install/patrol_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xrq/ros2_ws/build/patrol_robot/build --no-deps symlink_data

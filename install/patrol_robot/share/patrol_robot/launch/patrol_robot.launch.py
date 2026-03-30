@@ -1,0 +1,1 @@
+/home/xrq/ros2_ws/build/patrol_robot/launch/patrol_robot.launch.py

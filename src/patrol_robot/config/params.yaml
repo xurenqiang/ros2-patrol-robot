@@ -1,0 +1,7 @@
+patrol_controller:
+  ros__parameters:
+    linear_speed: 0.2
+
+obstacle_avoidance:
+  ros__parameters:
+    obstacle_distance_threshold: 0.5
